@@ -1,0 +1,214 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.10">
+  <diagram name="Страница — 1" id="uZrMuJpr437Ar_aQT6la">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-1" target="XcH6epFYLIS7OOy_SZhR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-1" target="XcH6epFYLIS7OOy_SZhR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-1" value="Початок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-3" target="XcH6epFYLIS7OOy_SZhR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-3" value="Перегляд розкладу (гість)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-5" target="XcH6epFYLIS7OOy_SZhR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-5" value="Вхід від адміністрації" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-7" target="XcH6epFYLIS7OOy_SZhR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-7" value="Введіть логін:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-9" target="XcH6epFYLIS7OOy_SZhR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-9" value="Пароль" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-13" target="XcH6epFYLIS7OOy_SZhR-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-13" target="XcH6epFYLIS7OOy_SZhR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-13" target="XcH6epFYLIS7OOy_SZhR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XcH6epFYLIS7OOy_SZhR-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="171.67" y="650" as="targetPoint" />
+            <mxPoint x="270.0033333333333" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="490" />
+              <mxPoint x="220" y="550" />
+              <mxPoint x="180" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="941.3333129882812" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-13" value="Виберіть дію:&#xa;1 - Переглянути розклад&#xa;2 - Додати розклад&#xa;3 - Видалити розклад&#xa;4 - Редагувати розклад&#xa;0 - Вихід" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-15" target="XcH6epFYLIS7OOy_SZhR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-15" target="XcH6epFYLIS7OOy_SZhR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-15" value="Виберіть дію:&#xa;1 - Переглянути розклад&#xa;0 - Вихід" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-18" value="Показ розкладу" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-17" value="If choice 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-22" value="Вихід з програми" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-24" value="If choice 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-25" value="Показ розкладу" style="fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-27" value="If choice 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-28" target="XcH6epFYLIS7OOy_SZhR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-28" value="Введіть ID класу:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-30" value="If choice 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-31" target="XcH6epFYLIS7OOy_SZhR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-31" value="Введіть ID предмета:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-34" target="XcH6epFYLIS7OOy_SZhR-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-34" value="Введіть ID вчителя:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-42" target="XcH6epFYLIS7OOy_SZhR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-42" value="Введіть день неділі:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="650" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-44" target="XcH6epFYLIS7OOy_SZhR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-44" value="Введіть час початку:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="700" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-46" target="XcH6epFYLIS7OOy_SZhR-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-46" value="Введіть час&amp;nbsp;закінчення:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-48" value="Розклад додано!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="810" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-50" target="XcH6epFYLIS7OOy_SZhR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-50" value="Введіть ID розкладу для видалення:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-52" value="If choice 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-53" value="Розклад видалено!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="620" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-58" target="XcH6epFYLIS7OOy_SZhR-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-58" value="Введіть ID розкладу для редагування:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-64" value="If choice 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-65" target="XcH6epFYLIS7OOy_SZhR-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-65" value="Новий ID класу:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-67" target="XcH6epFYLIS7OOy_SZhR-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-67" value="Новий ID предмета:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-69" target="XcH6epFYLIS7OOy_SZhR-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-69" value="Новий ID вчителя:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-71" target="XcH6epFYLIS7OOy_SZhR-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-71" value="Новий день тижня:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-74" target="XcH6epFYLIS7OOy_SZhR-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-74" value="Новий час початку (HH:mm):" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcH6epFYLIS7OOy_SZhR-76" target="XcH6epFYLIS7OOy_SZhR-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-76" value="Новий час закінчення (HH:mm):" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1030" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-78" value="Розклад успішно оновлено!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1090" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-81" value="Вихід" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XcH6epFYLIS7OOy_SZhR-82" value="If choice 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="725" width="60" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
